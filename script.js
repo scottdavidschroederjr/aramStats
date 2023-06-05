@@ -1,5 +1,5 @@
 //these will be the inputs on the site to pull the info
-let apiKey = "RGAPI-e5f897ff-2f44-4464-b3a5-0597a4af3979"
+let apiKey = ""
 let userName = "SaveAsUntitled"
 
 //putting the URLs needed for each request together
